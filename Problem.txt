@@ -1,0 +1,1 @@
+Chapter 8 presented a Stock class that holds information about a stock. (See Section 8.4) Write a class that keeps Stock objects in a Map. The class should be able to retrieve a particular Stock object from the Map by searching on its stock symbol. Demonstrate the class in an application.
